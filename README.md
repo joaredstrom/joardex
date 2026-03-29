@@ -16,8 +16,8 @@ Byggd med HTML, CSS och JavaScript. Ingen framework behövs.
 
 Det har ar vad jag sa till Claude att jag ville ha:
 
-> Jag vill att man ska kunna hora varje Pokemons ljud.
-> Det ska vara en knapp att trycka pa.
+> Jag vill att man ska kunna höra varje Pokemons ljud.
+> Det ska vara en knapp att trycka på.
 > Knappen ska vara pa detaljvyn for varje Pokemon.
 
 Sen fick Claude fraga fragor, och jag svarade:
