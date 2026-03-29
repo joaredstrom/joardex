@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joardex</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Joardex</h1>
+        <p class="subtitle">Din Pokemon-encyklopedi</p>
+    </header>
+
+    <main id="pokedex">
+        <!-- Rows rendered by JS -->
+    </main>
+
+    <!-- Detail modal -->
+    <div id="modal-overlay" class="modal-overlay hidden">
+        <div class="modal">
+            <button class="modal-close" id="modal-close">&times;</button>
+            <div class="modal-body" id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
