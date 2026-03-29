@@ -14,13 +14,21 @@ Byggd med HTML, CSS och JavaScript. Ingen framework behövs.
 
 ## Mina instruktioner
 
-Det har ar vad jag sa till Claude att jag ville ha:
+### Hela appen
+
+Forst sa jag till Claude:
+
+> Jag vill gora en Pokedex som heter Joardex som delar upp draktyper och elektrotyper pa tva rader. Man ska kunna kolla pa dem och det ska vara roda prickar mellan varje Pokemon.
+
+### Ljud-knappen
+
+Sen sa jag:
 
 > Jag vill att man ska kunna höra varje Pokemons ljud.
 > Det ska vara en knapp att trycka på.
 > Knappen ska vara pa detaljvyn for varje Pokemon.
 
-Sen fick Claude fraga fragor, och jag svarade:
+Claude fragade fragor, och jag svarade:
 
 - **Var ska ljudet komma ifran?** - Fran PokeAPI (en gratis Pokemon-databas pa internet)
 - **Hur ska knappen se ut?** - Bade en ikon och text
